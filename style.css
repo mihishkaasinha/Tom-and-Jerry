@@ -1,0 +1,102 @@
+.head{
+    background-color: #2BB8C0;
+    text-align: center;
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 170%;
+    margin-top:-1%;
+    padding: 0.2%;
+    margin-left: -1%;
+    margin-right: -1%;
+}
+
+.title{
+    display: flex;
+    justify-content: space-evenly;
+    background: white;
+    color:yellow;
+    font-size:280%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.title a.one:hover{
+    color: yellowgreen;
+}
+
+.title a.two:hover{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title a.three:hover{
+    background-color: orange;
+}
+
+.home {
+    background-color: pink;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
+
+.video{
+    color:darkred;
+    font-size: 200%;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:aquamarine;
+}
+
+.grid{
+    background-color: rgb(219, 201, 34);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.ep1:hover{
+   transform: scale(0.9);
+}
+
+.ep2:hover{
+    transform: scale(0.9);
+ }
+
+ .ep3:hover{
+    transform: scale(0.9);
+ }
+ 
+ .ep4:hover{
+    transform: scale(0.9);
+ }
+
+ .cha{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:orange;
+    margin:-1.5%;
+ }
+ 
+ h1{
+   text-align: center;
+   color: crimson;
+   background-color:lemonchiffon
+ }
+.cha img{
+    border-radius:80%;
+    background-color:lightskyblue
+    
+} 
+.ch{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:orange;
+    margin:-1.5%;
+ }
+.ch img{
+    border-radius:2000%;
+    background-color:springgreen
+}
+
+a:visited{
+    color: rgb(255, 0, 0);
+}
